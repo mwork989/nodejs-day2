@@ -1,0 +1,2 @@
+training day2 
+Hello world from node from fs 10:51pm IST
